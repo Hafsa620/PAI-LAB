@@ -1,5 +1,5 @@
 # Programming for AI-LAB
-Python
-Machine learning
-Sklearn
-EDA
+1. Python
+2. Machine learning
+3. Sklearn
+4. EDA
